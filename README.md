@@ -26,6 +26,7 @@
 - [ 设计模式](#designPatterns)
 - [ 算法](#algorithm)
 - [ 工具、中间件](#utils)
+  - [Git](#utilsgit)
 - [杂谈](#zatan)
 - [理财](#FinancialManagement)
 - [ 免责声明](#mzsm)
@@ -156,7 +157,11 @@ Redis 设计与实现第二版  <a href="https://pan.baidu.com/s/1dZSEQaBLIG7rUN
 
 ## <span id="utils"> 工具、中间件</span>
 
+### <span id="utilsgit"> Git</span>
 
+progit  <a href="https://pan.baidu.com/s/1lbjyzeyvQpq_ioy_zhzcIw">百度云链接</a>   提取码：3l0e
+
+git权威指南  <a href="https://pan.baidu.com/s/1Hsw60FljxnezH-wvTnCODg">百度云链接</a>   提取码：aeat
 
 
 
