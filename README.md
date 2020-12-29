@@ -20,8 +20,11 @@
 	- [性能优化](#javatiaoyou)
 	- [框架](#javaframe)
 - [ Python](#python)
+  - [入门、进阶](#pythonbooks)
   - [爬虫](#pythonscraping)
   - [数据](#pythondata)
+- [ 大数据](#bigdata)
+  - [Flink](#bigdataflink)
 - [ 数据库](#database)
   - [Oracle](#databaseoracle)
   - [MySQL](#databaseMySQL)
@@ -117,6 +120,72 @@ Java问题定位技术  <a href="https://pan.baidu.com/s/1TkgNo0DtpSfS-O1AO8Coxg
 
 ## <span id="python"> Python</span>
 
+### <span id="pythonbooks"> Python</span>
+
+FlaskWeb开发：基于Python的Web应用开发实战  <a href="https://pan.baidu.com/s/1jspF1YQCGPEGq1r3QBW8Qw">百度云链接</a>  提取码：f516
+
+Head First Python, 2英文版 4  <a href="https://pan.baidu.com/s/1fyiQ_On2X0n0E2dqg_Ajnw">百度云链接</a>  提取码：jodm
+
+Head_First_Python（中文版）  <a href="https://pan.baidu.com/s/18TqPiom0ivtegN2QGttXvA">百度云链接</a>  提取码：1j3l
+
+Python.Essential.Reference,3rd.Edition  <a href="https://pan.baidu.com/s/1JmLii33kvSCgE4PDfeHVzw">百度云链接</a>  提取码：5uoy
+
+Python.UNIX和Linux系统管理指南  <a href="https://pan.baidu.com/s/1AajDr7wV1pt0VyJu-CwgGA">百度云链接</a>  提取码：lzld
+
+Python3程序开发指南.第二版(带书签)  <a href="https://pan.baidu.com/s/16bM7Uvu-R_dj_YQfOKo4hQ">百度云链接</a>  提取码：eyl7
+
+Python3-廖雪峰  <a href="https://pan.baidu.com/s/1GdAFun3N_PHd3mueZCvRGg">百度云链接</a>  提取码：ofry
+
+Python编程：从入门到实践  <a href="https://pan.baidu.com/s/199TMy1Jz6L6GYeSphUDBRw">百度云链接</a>  提取码：vvhp
+
+python标准库中文版PDF(带章节书签)  <a href="https://pan.baidu.com/s/1D1jts7IS4-lYtcnJCJNaLA">百度云链接</a>  提取码：ov9a
+
+Python参考手册(第4版)  <a href="https://pan.baidu.com/s/1HtNs8C6sJuGAGKxxwhixCw">百度云链接</a>  提取码：iriv
+
+Python高级编程  <a href="https://pan.baidu.com/s/1omJDyYRndOh4up1-bApJ2g">百度云链接</a>  提取码：lzku
+
+python核心编程（第二版）  <a href="https://pan.baidu.com/s/1vMpq208c_Q0MbR3dpfHZoQ">百度云链接</a>  提取码：t8wm
+
+python基础教程（第二版）  <a href="https://pan.baidu.com/s/1cwo6q6AiPsjG94IFOpKMbg">百度云链接</a>  提取码：9riv
+
+Python技术参考大全  <a href="https://pan.baidu.com/s/1huxfvCQSeMnZlQ7QUBucrQ">百度云链接</a>  提取码：43dl
+
+Python入门指南 2.5b  <a href="https://pan.baidu.com/s/1eoEGFA6v6cWNvMlrwWsZ0A">百度云链接</a>  提取码：gaa4
+
+Python学习手册(第4版)  <a href="https://pan.baidu.com/s/17mcQYNjj1FRbbW6dme6lyg">百度云链接</a>  提取码：kvvo
+
+python学习手册(第5版) 英文版  <a href="https://pan.baidu.com/s/1IgEpThXiqIkdi3t9AjbJCA">百度云链接</a>  提取码：zppa
+
+PYTHON自然语言处理【中文版】  <a href="https://pan.baidu.com/s/19jmbddbzn_jmtzlw1YLBkA">百度云链接</a>  提取码：tr77
+
+Tango With Django 1.9 1.10  <a href="https://pan.baidu.com/s/1RIjQPrd2SvyOXGc0qekA5Q">百度云链接</a>  提取码：nrx6
+
+艾伯特笨办法学 Python(第四版）  <a href="https://pan.baidu.com/s/1Cb-Pmyk8zcWPrEjja0er3A">百度云链接</a>  提取码：bpu0
+
+笨办法学 Python （第三版）  <a href="https://pan.baidu.com/s/1HS-hlKIz-WvpwMCwC-Q_tQ">百度云链接</a>  提取码：a75o
+
+编程小白的第一本Python入门书  <a href="https://pan.baidu.com/s/1HIYTMaVymkBPQy_llPtEaQ">百度云链接</a>  提取码：57ah
+
+简明Python教程  <a href="https://pan.baidu.com/s/1RZERbPVdYUkgGs6L1QeeUg">百度云链接</a>  提取码：a3x6
+
+简明Python教程-Python3(中文版)  <a href="https://pan.baidu.com/s/1OJ8PZ_VkwYD6bFj9QIWKuA">百度云链接</a>  提取码：sy00
+
+可爱的Python_中文版  <a href="https://pan.baidu.com/s/1rUwKlljF8wMjQc69e1hGQQ">百度云链接</a>  提取码：lhdk
+
+流畅的Python 4  <a href="https://pan.baidu.com/s/1PW2KV28rAhNVbONNwWoOLA">百度云链接</a>  提取码：n6j3
+
+深入理解Python中文版高清PDF  <a href="https://pan.baidu.com/s/1Ja4vxSicPnCgNC0lhkcmoQ">百度云链接</a>  提取码：tnub
+
+深入浅出：使用Python编程  <a href="https://pan.baidu.com/s/1CyA3U5sxm-DP3Q3SDmix4g">百度云链接</a>  提取码：h8hm
+
+像计算机科学家一样思考Python+(第2版)  <a href="https://pan.baidu.com/s/11BLf0-sbTEb8YNd8q93LyQ">百度云链接</a>  提取码：nhbh
+
+与孩子一起学编程_中文版_详细书签  <a href="https://pan.baidu.com/s/1erTyAa8nYC8k1a3MbS3oag">百度云链接</a>  提取码：vzwu
+
+  <a href="">百度云链接</a>  提取码：
+
+
+
 ### <span id="pythonscraping"> 爬虫</span>
 
 Python3 网络爬虫开发实战  <a href="https://pan.baidu.com/s/1OTLFFbMUoOw-lJIwXebVdQ">百度云链接</a>  提取码：tpe3
@@ -178,6 +247,22 @@ Python网络数据采集  <a href="https://pan.baidu.com/s/1Qr5jhHeYhxBGtL8qjfxN
 鲜活的数据：数据可视化指南  <a href="https://pan.baidu.com/s/1w-KfQQv87_mL_4RllyjwZQ">百度云链接</a>  提取码：wk1i
 
   <a href="">百度云链接</a>  提取码：
+
+
+
+## <span id="bigdata"> 大数据</span>
+
+### <span id="bigdataflink"> Filnk</span>
+
+ApacheFlink年度最佳实践  <a href="https://pan.baidu.com/s/17gaMq4jB9cyWB7YPXWoOYw">百度云链接</a>  提取码：vs0d
+
+ApacheFlink十大技术难点实战  <a href="https://pan.baidu.com/s/1Mkwlay0zdV394wg2iTOmyA">百度云链接</a>  提取码：bo1r
+
+零基础入门：从0到1学会ApacheFlink  <a href="https://pan.baidu.com/s/1c32k4BMvG0-6IkiC6ndggg">百度云链接</a>  提取码：50n3
+
+  <a href="">百度云链接</a>  提取码：
+
+
 
 
 
