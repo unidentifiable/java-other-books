@@ -28,6 +28,7 @@
 - [计算机基础](#jisuanjijichu)
 - [ 大数据](#bigdata)
   - [Flink](#bigdataflink)
+  - [K8s](#bigdatak8s)
 - [ 数据库](#database)
   - [Oracle](#databaseoracle)
   - [MySQL](#databaseMySQL)
@@ -333,6 +334,10 @@ ApacheFlink年度最佳实践  <a href="https://pan.baidu.com/s/17gaMq4jB9cyWB7Y
 ApacheFlink十大技术难点实战  <a href="https://pan.baidu.com/s/1Mkwlay0zdV394wg2iTOmyA">百度云链接</a>  提取码：bo1r
 
 零基础入门：从0到1学会ApacheFlink  <a href="https://pan.baidu.com/s/1c32k4BMvG0-6IkiC6ndggg">百度云链接</a>  提取码：50n3
+
+
+
+### <span id="bigdatak8s"> K8s</span>
 
 Kubernetes in Action  <a href="https://pan.baidu.com/s/1A19hpiFTmNYbteRszzAa8Q">百度云链接</a>  提取码：wzqy
 
