@@ -19,6 +19,7 @@
 	- [架构](#javajiagou)
 	- [性能优化](#javatiaoyou)
 	- [框架](#javaframe)
+	- [加密](#javajiami)
 - [ Python](#python)
   - [入门、进阶](#pythonbooks)
   - [爬虫](#pythonscraping)
@@ -113,11 +114,37 @@ Java性能权威指南  <a href="https://pan.baidu.com/s/1JSMOVzHgf14cBlmd7X6DTA
 
 Java问题定位技术  <a href="https://pan.baidu.com/s/1TkgNo0DtpSfS-O1AO8Coxg">百度云链接</a>  提取码：iybp
 
+Java虚拟机规范(Java SE 8版)  <a href="https://pan.baidu.com/s/10Ul9ZooVW0PJLUMm1UkH1w">百度云链接</a>  提取码：snck
+
+ <a href="">百度云链接</a>  提取码：
+
+
+
 
 
 ### <span id="javaframe">框架</span>
 
+138个Spring全家桶+Docker+MQ案例  <a href="https://pan.baidu.com/s/11Pe4hrXIHdzhwKBqb06uxA">百度云链接</a>  提取码：xapz
+
+Spring Boot+Vue全栈开发实战 王松  <a href="https://pan.baidu.com/s/1VeyQXUe0HE2-WJSm8mElog">百度云链接</a>  提取码：e70m
+
+SpringBoot+Vue全栈项目  <a href="https://pan.baidu.com/s/1nUwquYjz740tScDIkOeoEA">百度云链接</a>  提取码：k9ti
+
+Spring Cloud微服务实战  <a href="https://pan.baidu.com/s/1qX_YxcbjqrvaOXbsKPRmAg">百度云链接</a>  提取码：68uu
+
+深入理解Spring Cloud与微服务构建  <a href="https://pan.baidu.com/s/1kIbh0Awqhq5vfGR8MtBUmQ">百度云链接</a>  提取码：1qkh
+
+Spring源码深度解析  <a href="https://pan.baidu.com/s/1hQjrPN9ldZNwgC2IJo43NQ">百度云链接</a>  提取码：mmcq
+
   <a href="">百度云链接</a>  提取码：
+
+
+
+
+
+### <span id="javajiami">加密</span>
+
+Java加密与解密的艺术 梁栋  <a href="https://pan.baidu.com/s/1qjJDlha21-cDZFfQaIiHmA">百度云链接</a>  提取码：ztiy
 
 
 
@@ -291,9 +318,13 @@ STL源码剖析  <a href="https://pan.baidu.com/s/1s1Bcq8gXaaJoJshydfv5aA">百�
 
 计算机网络-自顶向下方法  <a href="https://pan.baidu.com/s/11Q4qCnYN7h6YxH9Y_IA9cA">百度云链接</a>  提取码：uu87
 
+深入理解计算机系统（第三版文字版)  <a href="https://pan.baidu.com/s/11rWFiSnPiIy0WbK-d7nwDQ">百度云链接</a>  提取码：e8ei
 
 
-## <span id="bigdata"> 大数据</span>
+
+
+
+## <span id="bigdata">大数据</span>
 
 ### <span id="bigdataflink"> Filnk</span>
 
@@ -303,9 +334,11 @@ ApacheFlink十大技术难点实战  <a href="https://pan.baidu.com/s/1Mkwlay0zd
 
 零基础入门：从0到1学会ApacheFlink  <a href="https://pan.baidu.com/s/1c32k4BMvG0-6IkiC6ndggg">百度云链接</a>  提取码：50n3
 
+Kubernetes in Action  <a href="https://pan.baidu.com/s/1A19hpiFTmNYbteRszzAa8Q">百度云链接</a>  提取码：wzqy
+
+每天5分钟玩转Kubernetes  <a href="https://pan.baidu.com/s/1aFyFZ1jmlBh8gClgZzfqGA">百度云链接</a>  提取码：xt2g
+
   <a href="">百度云链接</a>  提取码：
-
-
 
 
 
@@ -395,9 +428,11 @@ labuladong的算法小抄（修订）  <a href="https://pan.baidu.com/s/1GXlndwG
 
 Python数据结构与算法  <a href="https://pan.baidu.com/s/10j6NYBl0oesYzbWk39tdEg">百度云链接</a>  提取码：htsx
 
+程序员的算法趣题  <a href="https://pan.baidu.com/s/1dOjegmxA5mOIjzJLYeNofQ">百度云链接</a>  提取码：3zcp
+
+我的第一本算法书  <a href="https://pan.baidu.com/s/1vuJanoioEKnOzbgYR91AAA">百度云链接</a>  提取码：3n7b
+
   <a href="">百度云链接</a>  提取码：
-
-
 
 
 
