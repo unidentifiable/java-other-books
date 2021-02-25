@@ -19,12 +19,16 @@
 	- [架构](#javajiagou)
 	- [性能优化](#javatiaoyou)
 	- [框架](#javaframe)
+	- [加密](#javajiami)
 - [ Python](#python)
   - [入门、进阶](#pythonbooks)
   - [爬虫](#pythonscraping)
   - [数据](#pythondata)
+- [ C/C++](#c)
+- [计算机基础](#jisuanjijichu)
 - [ 大数据](#bigdata)
   - [Flink](#bigdataflink)
+  - [K8s](#bigdatak8s)
 - [ 数据库](#database)
   - [Oracle](#databaseoracle)
   - [MySQL](#databaseMySQL)
@@ -35,6 +39,7 @@
 - [ 工具、中间件](#utils)
   - [Git](#utilsgit)
 - [杂谈](#zatan)
+- [面试](#mianshi)
 - [理财](#FinancialManagement)
 - [ 免责声明](#mzsm)
 
@@ -110,11 +115,37 @@ Java性能权威指南  <a href="https://pan.baidu.com/s/1JSMOVzHgf14cBlmd7X6DTA
 
 Java问题定位技术  <a href="https://pan.baidu.com/s/1TkgNo0DtpSfS-O1AO8Coxg">百度云链接</a>  提取码：iybp
 
+Java虚拟机规范(Java SE 8版)  <a href="https://pan.baidu.com/s/10Ul9ZooVW0PJLUMm1UkH1w">百度云链接</a>  提取码：snck
+
+ <a href="">百度云链接</a>  提取码：
+
+
+
 
 
 ### <span id="javaframe">框架</span>
 
+138个Spring全家桶+Docker+MQ案例  <a href="https://pan.baidu.com/s/11Pe4hrXIHdzhwKBqb06uxA">百度云链接</a>  提取码：xapz
+
+Spring Boot+Vue全栈开发实战 王松  <a href="https://pan.baidu.com/s/1VeyQXUe0HE2-WJSm8mElog">百度云链接</a>  提取码：e70m
+
+SpringBoot+Vue全栈项目  <a href="https://pan.baidu.com/s/1nUwquYjz740tScDIkOeoEA">百度云链接</a>  提取码：k9ti
+
+Spring Cloud微服务实战  <a href="https://pan.baidu.com/s/1qX_YxcbjqrvaOXbsKPRmAg">百度云链接</a>  提取码：68uu
+
+深入理解Spring Cloud与微服务构建  <a href="https://pan.baidu.com/s/1kIbh0Awqhq5vfGR8MtBUmQ">百度云链接</a>  提取码：1qkh
+
+Spring源码深度解析  <a href="https://pan.baidu.com/s/1hQjrPN9ldZNwgC2IJo43NQ">百度云链接</a>  提取码：mmcq
+
   <a href="">百度云链接</a>  提取码：
+
+
+
+
+
+### <span id="javajiami">加密</span>
+
+Java加密与解密的艺术 梁栋  <a href="https://pan.baidu.com/s/1qjJDlha21-cDZFfQaIiHmA">百度云链接</a>  提取码：ztiy
 
 
 
@@ -250,7 +281,51 @@ Python网络数据采集  <a href="https://pan.baidu.com/s/1Qr5jhHeYhxBGtL8qjfxN
 
 
 
-## <span id="bigdata"> 大数据</span>
+## <span id="c"> C/C++</span>
+
+C++ Primer Plus（第6版）_中文版  <a href="https://pan.baidu.com/s/1K-mxKOY9AfVssuPaMTT4Ww">百度云链接</a>  提取码：c2v7
+
+C++编程思想（两卷合订本）  <a href="https://pan.baidu.com/s/10cVamM-buw5PKy8VCzFWzQ">百度云链接</a>  提取码：73k7
+
+C++沉思录中文第2版  <a href="https://pan.baidu.com/s/1wvSWvP76Ihk_11G9edjCFw">百度云链接</a>  提取码：tx67
+
+C++对象模型  <a href="https://pan.baidu.com/s/14MjNsGLxqOzjG70PNTbbCg">百度云链接</a>  提取码：6duq
+
+C++设计新思维-泛型编程与设计之应用  <a href="https://pan.baidu.com/s/18hLfTeWAtQ3uQn3Zn4tl3Q">百度云链接</a>  提取码：wmcm
+
+C和指针  <a href="https://pan.baidu.com/s/1ROx9j8jk3Vh8P3xwKZPICw">百度云链接</a>  提取码：cc5f
+
+C语言编程精粹  <a href="https://pan.baidu.com/s/1AKVe8HcK-02JU6EdrYEjIw">百度云链接</a>  提取码：e350
+
+C语言深度解剖  <a href="https://pan.baidu.com/s/14quB8E3sdnrGtN5Tlk8gNA">百度云链接</a>  提取码：1fjw
+
+C专家编程  <a href="https://pan.baidu.com/s/1SRyUTSoVU-jzmkk7lNjjyg">百度云链接</a>  提取码：siiq
+
+STL源码剖析  <a href="https://pan.baidu.com/s/1s1Bcq8gXaaJoJshydfv5aA">百度云链接</a>  提取码：usep
+
+剑指offer 名企面试官精讲典型编程题  <a href="https://pan.baidu.com/s/1Y_2YH_jBIoM5B3ddnZPKww">百度云链接</a>  提取码：173l
+
+深入探索C++对象模型  <a href="https://pan.baidu.com/s/1bSO9KaoPF8yBBU2MX9O-3g">百度云链接</a>  提取码：amu6
+
+挑战程序设计竞赛(第2版)  <a href="https://pan.baidu.com/s/1uT57_dlKkGbx_TOL4IxtKQ">百度云链接</a>  提取码：c7j0
+
+
+
+## <span id="jisuanjijichu"> 计算机基础</span>
+
+网络是怎样连接的  <a href="https://pan.baidu.com/s/1S3mNOmC7mWGy2ECIAnydeA">百度云链接</a>  提取码：8v6v
+
+深入理解计算机网络  <a href="https://pan.baidu.com/s/1FMuMhtRFI0qbs189uByjhQ">百度云链接</a>  提取码：pmd3
+
+计算机网络-自顶向下方法  <a href="https://pan.baidu.com/s/11Q4qCnYN7h6YxH9Y_IA9cA">百度云链接</a>  提取码：uu87
+
+深入理解计算机系统（第三版文字版)  <a href="https://pan.baidu.com/s/11rWFiSnPiIy0WbK-d7nwDQ">百度云链接</a>  提取码：e8ei
+
+
+
+
+
+## <span id="bigdata">大数据</span>
 
 ### <span id="bigdataflink"> Filnk</span>
 
@@ -260,9 +335,15 @@ ApacheFlink十大技术难点实战  <a href="https://pan.baidu.com/s/1Mkwlay0zd
 
 零基础入门：从0到1学会ApacheFlink  <a href="https://pan.baidu.com/s/1c32k4BMvG0-6IkiC6ndggg">百度云链接</a>  提取码：50n3
 
+
+
+### <span id="bigdatak8s"> K8s</span>
+
+Kubernetes in Action  <a href="https://pan.baidu.com/s/1A19hpiFTmNYbteRszzAa8Q">百度云链接</a>  提取码：wzqy
+
+每天5分钟玩转Kubernetes  <a href="https://pan.baidu.com/s/1aFyFZ1jmlBh8gClgZzfqGA">百度云链接</a>  提取码：xt2g
+
   <a href="">百度云链接</a>  提取码：
-
-
 
 
 
@@ -352,9 +433,11 @@ labuladong的算法小抄（修订）  <a href="https://pan.baidu.com/s/1GXlndwG
 
 Python数据结构与算法  <a href="https://pan.baidu.com/s/10j6NYBl0oesYzbWk39tdEg">百度云链接</a>  提取码：htsx
 
+程序员的算法趣题  <a href="https://pan.baidu.com/s/1dOjegmxA5mOIjzJLYeNofQ">百度云链接</a>  提取码：3zcp
+
+我的第一本算法书  <a href="https://pan.baidu.com/s/1vuJanoioEKnOzbgYR91AAA">百度云链接</a>  提取码：3n7b
+
   <a href="">百度云链接</a>  提取码：
-
-
 
 
 
@@ -384,6 +467,10 @@ git权威指南  <a href="https://pan.baidu.com/s/1Hsw60FljxnezH-wvTnCODg">百�
 
 
 
+## <span id="mianshi">面试</span>
+
+Java岗2020面试题库 <a href="https://pan.baidu.com/s/13fNnXK4j7BktDn527u5jHA">百度云链接</a>   提取码：jemt
+
 
 
 ## <span id="FinancialManagement">理财</span>
@@ -398,7 +485,51 @@ git权威指南  <a href="https://pan.baidu.com/s/1Hsw60FljxnezH-wvTnCODg">百�
 
 聪明的投资者  <a href="https://pan.baidu.com/s/1neupg7_WtslbnvCMhmqwzg">百度云链接</a>   提取码：bdko
 
-巴菲特致股东的信  <a href="https://pan.baidu.com/s/1ctau7KdH-av3fR6awEWhag">百度云链接</a>   提取码：lwbq
+巴菲特致股东的信：投资者和公司高管教程  <a href="https://pan.baidu.com/s/1ctau7KdH-av3fR6awEWhag">百度云链接</a>   提取码：lwbq
+
+巴菲特致股东的信-股份公司教程  <a href="https://pan.baidu.com/s/1Tlo-mQlkkGYbm2UtAjvPlg">百度云链接</a>   提取码：jb4m
+
+彼得·林奇的成功投资  <a href="https://pan.baidu.com/s/1CDQENNcUs-hqvYOiDF35Qw">百度云链接</a>   提取码：64cz
+
+财富自由  <a href="https://pan.baidu.com/s/1RahhkpJK1yte8NvQkJjOGQ">百度云链接</a>   提取码：mj1g
+
+股票大作手回忆录 [美] 爱德温·李费佛  <a href="https://pan.baidu.com/s/1iiZYVCNcm8WSL_WbZCUP8Q">百度云链接</a>   提取码：emc1
+
+海龟交易法则-完美版 [美]柯蒂斯•费思 乔江涛译2013.5   <a href="https://pan.baidu.com/s/1GY99D8NuRhhN0C-CN33zaQ">百度云链接</a>   提取码：pob6
+
+企业家精神 (稻盛和夫经营实录) 正版  <a href="https://pan.baidu.com/s/1uqEIFYKVxnYvt_PiII-V1w">百度云链接</a>   提取码：is8t
+
+让时间陪你慢慢变富  <a href="https://pan.baidu.com/s/1cNf91UVEh3Pmz4ALPLZ0NQ">百度云链接</a>   提取码：z977
+
+日本蜡烛图技术  <a href="https://pan.baidu.com/s/1WEK5CCRKkVFeeMphfMZgCA">百度云链接</a>   提取码：6il0
+
+十年一梦一个操盘手的自白  <a href="https://pan.baidu.com/s/1e7yqMQfwnDy-xPCAug2x9g">百度云链接</a>   提取码：jant
+
+数字经济2.0  <a href="https://pan.baidu.com/s/1qJGuSR6cxeHbwm3DtG26_w">百度云链接</a>   提取码：6a2p
+
+通向财务自由之路(原书第2版珍藏版)  <a href="https://pan.baidu.com/s/1WvC_fAtBzXSYVPzanUloTg">百度云链接</a>   提取码：hsmw
+
+投资中最简单的事 - 邱国鹭  <a href="https://pan.baidu.com/s/12U2BpHY7Wq0h8no_AXlEfA">百度云链接</a>   提取码：4g35
+
+投资最重要的事  <a href="https://pan.baidu.com/s/1i00L_DGq7El4hZ4vkHrHsw">百度云链接</a>   提取码：6sc6
+
+乌合之众  <a href="https://pan.baidu.com/s/1QnFaDtrU0rvrG-nyKNeP3w">百度云链接</a>   提取码：5wcn
+
+小狗钱钱2  <a href="https://pan.baidu.com/s/16aGbZiq-Wny3vk_QJfEkAQ">百度云链接</a>   提取码：ehox
+
+笑傲股市 [美]威廉•欧奈尔  <a href="https://pan.baidu.com/s/1ETKeHe3huLVnTOU4tHfNeA">百度云链接</a>   提取码：vih8
+
+学会估值，轻松投资  <a href="https://pan.baidu.com/s/1bbjdRemBSkREZ_y0VoyYmA">百度云链接</a>   提取码：i7fd
+
+一本书读懂财报——肖星  <a href="https://pan.baidu.com/s/1yNEtCAnQZrRMpWBXhd-wFw">百度云链接</a>   提取码：vr19
+
+怎样选择成长股  <a href="https://pan.baidu.com/s/1W28yGjO46hVEchq0ycKUYg">百度云链接</a>   提取码：7l2h
+
+战胜华尔街  <a href="https://pan.baidu.com/s/117tdVBBT11SSTBpjv3CIeQ">百度云链接</a>   提取码：tqyg
+
+指数基金投资指南（雪球【岛】系列）  <a href="https://pan.baidu.com/s/10P4JAI4cL4_3_RvvJiE0uw">百度云链接</a>   提取码：qaz6
+
+  <a href="">百度云链接</a>   提取码：
 
 
 
