@@ -2,7 +2,7 @@
 
 > 真正要看还是纸质书看着有感觉，电子书籍方便在通勤路上等琐碎时间观看。建议大家购买正版书籍放家里没事多看一看。
 
-如果觉得对你有帮助的话，请关注下我的公众号：【该昵称无法识别】
+如果觉得对你有帮助的话，请关注下我的公众号：【Java全栈路线】
 
  <img src="https://cdn.nlark.com/yuque/0/2020/jpeg/2612900/1608532393547-82ff36f2-5792-476a-964a-7746c89bc74a.jpeg" alt="该昵称无法识别" style="zoom: 33%;" /> 
 
@@ -49,19 +49,23 @@
 
 ### <span id="javajichu"> 基础</span>
 
-Java核心技术卷一基础知识第10版  <a href="https://pan.baidu.com/s/1TKhgRzCAFQ8SZy3RkLVfsg">百度云链接</a>  提取码：cfo1
+Java核心技术卷一基础知识第10版  <a href="https://pan.baidu.com/s/13nnm3KZpTk0B1pQ8mMAhew">百度云链接</a>  提取码：z21d
 
-Java核心技术卷二基础知识第10版  <a href="https://pan.baidu.com/s/19Jp--Qvwq0HvQy-SfsADaw">百度云链接</a>  提取码：6zsc
+Java核心技术卷二基础知识第10版  <a href="https://pan.baidu.com/s/1VCRBaUY1EZDb8YhxA5vFlQ">百度云链接</a>  提取码：0j3p
 
-疯狂java讲义  <a href="https://pan.baidu.com/s/1i3gWUYJCRI4-a8uRx7sDjQ">百度云链接</a>  提取码：27o9
+疯狂java讲义  <a href="链接：https://pan.baidu.com/s/1Lq7gmtPzhNbmNJt5589OUQ 
+提取码：o6lc
+复制这段内容后打开百度网盘手机App，操作更方便哦">百度云链接</a>  提取码：27o9
 
-Java编程思想第4版  <a href="https://pan.baidu.com/s/1nceCR5ZHJMXY-q3WqDWYFg">百度云链接</a>  提取码：r2hv
+疯狂Java讲义第4版 <a href="https://pan.baidu.com/s/1qkXI8Nz7P_WsNRrRvIEDYQ">百度云链接</a> 提取码：nqky
 
-Effective Java中文版第3版  <a href="https://pan.baidu.com/s/1-PptYA069B7FWGEipqhckg">百度云链接</a>  提取码：2sph
+Java编程思想第4版  <a href="https://pan.baidu.com/s/1JE9wJalgaYNsI4IL-ihvFw">百度云链接</a>  提取码：3yls
 
-Java 8实战  <a href="https://pan.baidu.com/s/1zc0-JwFCX5djQfWybmy6jw">百度云链接</a>  提取码：iw7c
+Effective Java中文版第3版  <a href="https://pan.baidu.com/s/1Yhy0fiO7g8Vhj7yjhZ9WJQ">百度云链接</a>  提取码：ky9s
 
-Thinking In Java 4  <a href="https://pan.baidu.com/s/1hfnqm91RIEtE986cV_n_iA">百度云链接</a>  提取码：oswd
+Java 8实战  <a href="https://pan.baidu.com/s/1ZirHbdSXhqrygA2nSaTGBg">百度云链接</a>  提取码：urpg
+
+Thinking In Java 4  <a href="https://pan.baidu.com/s/1XGUzZXB0qJl1oM6LBHLg0g">百度云链接</a>  提取码：2af6
 
 
 
