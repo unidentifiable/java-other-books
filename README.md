@@ -53,9 +53,7 @@ Java核心技术卷一基础知识第10版  <a href="https://pan.baidu.com/s/13n
 
 Java核心技术卷二基础知识第10版  <a href="https://pan.baidu.com/s/1VCRBaUY1EZDb8YhxA5vFlQ">百度云链接</a>  提取码：0j3p
 
-疯狂java讲义  <a href="链接：https://pan.baidu.com/s/1Lq7gmtPzhNbmNJt5589OUQ 
-提取码：o6lc
-复制这段内容后打开百度网盘手机App，操作更方便哦">百度云链接</a>  提取码：27o9
+疯狂java讲义  <a href="https://pan.baidu.com/s/1Lq7gmtPzhNbmNJt5589OUQ">百度云链接</a>  提取码：o6lc
 
 疯狂Java讲义第4版 <a href="https://pan.baidu.com/s/1qkXI8Nz7P_WsNRrRvIEDYQ">百度云链接</a> 提取码：nqky
 
@@ -73,9 +71,9 @@ Thinking In Java 4  <a href="https://pan.baidu.com/s/1XGUzZXB0qJl1oM6LBHLg0g">�
 
 ### <span id="javabingfa"> 并发</span>
 
-Java并发编程的艺术    <a href="https://pan.baidu.com/s/1OkkxV3YRyLpuXrt-wrVdVw">百度云链接</a>   提取码：0znl
+Java并发编程的艺术    <a href="https://pan.baidu.com/s/144JeIhF5f_KplDmEHJapyg">百度云链接</a>   提取码：t5v1
 
-Java高并发编程详解  <a href="https://pan.baidu.com/s/1Q2sRa68ghDKTW59W3JKttQ">百度云链接</a>  提取码：aqit
+Java高并发编程详解  <a href="https://pan.baidu.com/s/1tZMUjAbiz45Y1E7B2in2mw">百度云链接</a>  提取码：6a3e
 
 
 
@@ -83,43 +81,43 @@ Java高并发编程详解  <a href="https://pan.baidu.com/s/1Q2sRa68ghDKTW59W3JK
 
 ### <span id="javanet"> 网络</span>
 
-Netty源码剖析与应用  <a href="https://pan.baidu.com/s/1zX1Syw788eBcYonc9jWcsQ">百度云链接</a>  提取码：s3co
+Netty源码剖析与应用  <a href="https://pan.baidu.com/s/1nQIqwYxrUckTBj1DSJEhsQ">百度云链接</a>  提取码：dunr
 
-Netty实战  <a href="https://pan.baidu.com/s/15j4t4h2ZqjHrG2vbaN9_Ig">百度云链接</a>  提取码：l3t2
+Netty实战  <a href="https://pan.baidu.com/s/1F7jGeXpA1dWddfQqvq8UOQ">百度云链接</a>  提取码：gb4r
 
-Netty权威指南  <a href="https://pan.baidu.com/s/1N-5klz7MWtBtGLp9Miqo_w">百度云链接</a>  提取码：idod
+Netty权威指南  <a href="https://pan.baidu.com/s/1ycM_w4swpznEMIZ5VQDPPQ">百度云链接</a>  提取码：8jzq
 
 
 
 ### <span id="javajiagou">架构</span>
 
-重学Java设计模式  <a href="https://pan.baidu.com/s/1VythbdKOcyxzIi3dRKvV8w">百度云链接</a>   提取码：5p4v
+重学Java设计模式  <a href="https://pan.baidu.com/s/1LdebaaSuS0pJxqz9tXaKrQ">百度云链接</a>   提取码：jmpt
 
-重构  <a href="https://pan.baidu.com/s/1HfedZPZYXcKYlkQxsZIfPw">百度云链接</a>   提取码：7uba
+重构  <a href="https://pan.baidu.com/s/1N7Ntqtc5RrAj_Jpr27a4Xg">百度云链接</a>   提取码：grq6
 
-设计模式之禅第2版  <a href="https://pan.baidu.com/s/1qPh5vX-WTjVf3PyK8PZmTQ">百度云链接</a>   提取码：ovpw
+设计模式之禅第2版  <a href="https://pan.baidu.com/s/1nNlgawBha0MD8WTq2Mo9-A">百度云链接</a>   提取码：78fn
 
-大话设计模式  <a href="https://pan.baidu.com/s/1sMEd-CxNy_rixP-i6ETliQ">百度云链接</a>   提取码：q9p6
+大话设计模式  <a href="https://pan.baidu.com/s/19pjVhpRkbXlLC5bOu6kS1A">百度云链接</a>   提取码：w20r
 
-从零开始学架构  <a href="https://pan.baidu.com/s/1sVBD5pRVOGL0adXzDg2nLA">百度云链接</a>   提取码：k4tz
+从零开始学架构  <a href="https://pan.baidu.com/s/1XEySnMvNiBDsjz4E0XvxSQ">百度云链接</a>   提取码：b3ja
 
-程序员的自我修养  <a href="https://pan.baidu.com/s/12_1Bqmr-CFH1Gzgbeuqz0Q">百度云链接</a>   提取码：aak5
+程序员的自我修养  <a href="https://pan.baidu.com/s/1OSOHAMqLSyq7V9mE9QbO6w">百度云链接</a>   提取码：6mgn
 
-Java工程师修炼之道  <a href="https://pan.baidu.com/s/1utUWTo3IPjqE4ugsZ9WUqw">百度云链接</a>   提取码：4aul
+Java工程师修炼之道  <a href="https://pan.baidu.com/s/1R5VmP87CoAw5xOgto8KnzA">百度云链接</a>   提取码：tkgf
 
-Java程序的建议  <a href="https://pan.baidu.com/s/152GPrAmjLk0D0TgmqAu3WA">百度云链接</a>   提取码：fnzy
+Java程序的建议  <a href="https://pan.baidu.com/s/1OSmMhDyDRoUhPj8M2mvnfQ">百度云链接</a>   提取码：c905
 
 
 
 ### <span id="javatiaoyou">性能优化</span>
 
-深入理解Java虚拟机 JVM高级特性与最佳实践 第2版  <a href="https://pan.baidu.com/s/1_pIfsxixT5mYYbLRy84SWQ">百度云链接</a>  提取码：ayxf
+深入理解Java虚拟机 JVM高级特性与最佳实践 第2版  <a href="https://pan.baidu.com/s/1p0HLFrR4Z037B5deTIkOkw">百度云链接</a>  提取码：b2o9
 
-Java性能权威指南  <a href="https://pan.baidu.com/s/1JSMOVzHgf14cBlmd7X6DTA">百度云链接</a>  提取码：99ox
+Java性能权威指南  <a href="https://pan.baidu.com/s/16ymG_EfRsbkN_qQaQ09D3A">百度云链接</a>  提取码：apwb
 
-Java问题定位技术  <a href="https://pan.baidu.com/s/1TkgNo0DtpSfS-O1AO8Coxg">百度云链接</a>  提取码：iybp
+Java问题定位技术  <a href="https://pan.baidu.com/s/151DjJAZgtJ0RN4ASYtRP-Q">百度云链接</a>  提取码：9mjn
 
-Java虚拟机规范(Java SE 8版)  <a href="https://pan.baidu.com/s/10Ul9ZooVW0PJLUMm1UkH1w">百度云链接</a>  提取码：snck
+Java虚拟机规范(Java SE 8版)  <a href="https://pan.baidu.com/s/1Odh-RacSqdJ8EZ4__KoCAA">百度云链接</a>  提取码：20sr
 
  <a href="">百度云链接</a>  提取码：
 
@@ -129,17 +127,17 @@ Java虚拟机规范(Java SE 8版)  <a href="https://pan.baidu.com/s/10Ul9ZooVW0P
 
 ### <span id="javaframe">框架</span>
 
-138个Spring全家桶+Docker+MQ案例  <a href="https://pan.baidu.com/s/11Pe4hrXIHdzhwKBqb06uxA">百度云链接</a>  提取码：xapz
+138个Spring全家桶+Docker+MQ案例  <a href="https://pan.baidu.com/s/1R05mHjPhUsXwI7zOgzGAtw">百度云链接</a>  提取码：8x0y
 
-Spring Boot+Vue全栈开发实战 王松  <a href="https://pan.baidu.com/s/1VeyQXUe0HE2-WJSm8mElog">百度云链接</a>  提取码：e70m
+Spring Boot+Vue全栈开发实战 王松  <a href="https://pan.baidu.com/s/1JWdhUnRqUH3_ySIoPSzO3g">百度云链接</a>  提取码：yhdx
 
-SpringBoot+Vue全栈项目  <a href="https://pan.baidu.com/s/1nUwquYjz740tScDIkOeoEA">百度云链接</a>  提取码：k9ti
+SpringBoot+Vue全栈项目  <a href="https://pan.baidu.com/s/1PWVUl_-hdnmRVFVpPwCTOA">百度云链接</a>  提取码：0poe
 
-Spring Cloud微服务实战  <a href="https://pan.baidu.com/s/1qX_YxcbjqrvaOXbsKPRmAg">百度云链接</a>  提取码：68uu
+Spring Cloud微服务实战  <a href="链接：https://pan.baidu.com/s/1ZgNMW0W5jngmyf6f8IXXfw">百度云链接</a>  提取码：zm11
 
-深入理解Spring Cloud与微服务构建  <a href="https://pan.baidu.com/s/1kIbh0Awqhq5vfGR8MtBUmQ">百度云链接</a>  提取码：1qkh
+深入理解Spring Cloud与微服务构建  <a href="https://pan.baidu.com/s/1Un5tDA3iE4LHMNH2OwMeMA">百度云链接</a>  提取码：7422
 
-Spring源码深度解析  <a href="https://pan.baidu.com/s/1hQjrPN9ldZNwgC2IJo43NQ">百度云链接</a>  提取码：mmcq
+Spring源码深度解析  <a href="https://pan.baidu.com/s/1JAq0-eTxR8f6uB262U5E3Q">百度云链接</a>  提取码：qdx9
 
   <a href="">百度云链接</a>  提取码：
 
@@ -149,7 +147,7 @@ Spring源码深度解析  <a href="https://pan.baidu.com/s/1hQjrPN9ldZNwgC2IJo43
 
 ### <span id="javajiami">加密</span>
 
-Java加密与解密的艺术 梁栋  <a href="https://pan.baidu.com/s/1qjJDlha21-cDZFfQaIiHmA">百度云链接</a>  提取码：ztiy
+Java加密与解密的艺术 梁栋  <a href="https://pan.baidu.com/s/17CkLwtcVAY43myoR-x5Xiw">百度云链接</a>  提取码：lk9e
 
 
 
